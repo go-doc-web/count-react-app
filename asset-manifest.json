@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/count.github.io/count-react-app/static/css/main.7acaea2f.css",
-    "main.js": "/count.github.io/count-react-app/static/js/main.07d3183d.js",
+    "main.css": "/count.github.io/count-react-app/static/css/main.057a3e11.css",
+    "main.js": "/count.github.io/count-react-app/static/js/main.1cd696fa.js",
     "index.html": "/count.github.io/count-react-app/index.html",
-    "main.7acaea2f.css.map": "/count.github.io/count-react-app/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/count.github.io/count-react-app/static/js/main.07d3183d.js.map"
+    "main.057a3e11.css.map": "/count.github.io/count-react-app/static/css/main.057a3e11.css.map",
+    "main.1cd696fa.js.map": "/count.github.io/count-react-app/static/js/main.1cd696fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.057a3e11.css",
+    "static/js/main.1cd696fa.js"
   ]
 }
